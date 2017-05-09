@@ -1,3 +1,9 @@
+lightdm-gtk-greeter-mx16 (1.1mx16) mx; urgency=medium
+
+  * new settings for point release mx 16.1
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sat, 06 May 2017 11:30:09 +0300
+
 lightdm-gtk-greeter-mx16 (1.0mx16+2) mx; urgency=medium
 
   * Fixed preinst position = 50%,center 54%,start" 
